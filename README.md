@@ -23,7 +23,7 @@ Through this project, I gained hands-on experience with deep reinforcement learn
 - Rewards increase significantly across training as the policy improves
 
 <p align="center">
-  <img src="training_results.png" width="1000" alt="Episode returns and lengths during training">
+  <img src="training_results.png" width="900" alt="Episode returns and lengths during training">
 </p>
 
 - **Left**: Episode Returns – shows reward increasing over 1000 episodes
