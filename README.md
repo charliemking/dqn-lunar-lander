@@ -23,7 +23,7 @@ Through this project, I gained hands-on experience with deep reinforcement learn
 - Rewards increase significantly across training as the policy improves
 
 <p align="center">
-  ### Training Performance
+  Training Performance
   <img src="training_results.png" width="900" alt="Episode returns and lengths during training">
 </p>
 
