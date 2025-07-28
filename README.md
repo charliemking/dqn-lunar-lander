@@ -1,4 +1,4 @@
-# Lunar Lander with Deep Reinforcement Learning 🚀
+# Lunar Lander with Deep Reinforcement Learning
 
 This project implements a Deep Q-Network (DQN) using PyTorch to train an agent to solve the `LunarLander-v3` environment from OpenAI Gym. The agent learns to land a spacecraft safely by interacting with the environment and approximating value functions through a neural network.
 
@@ -8,7 +8,7 @@ Through this project, I gained hands-on experience with deep reinforcement learn
 
 ---
 
-## 🧠 Key Components
+## Key Components
 
 - **Environment**: OpenAI Gym `LunarLander-v3`
 - **Algorithm**: Deep Q-Network (DQN)
@@ -19,7 +19,7 @@ Through this project, I gained hands-on experience with deep reinforcement learn
 
 ---
 
-## 📈 Training Results
+## Training Results
 
 - The agent learned to land successfully in most episodes by the end of training.
 - Episode returns increased significantly, with landing efficiency improving over time.
