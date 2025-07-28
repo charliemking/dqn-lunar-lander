@@ -21,3 +21,10 @@ Through this project, I gained hands-on experience with deep reinforcement learn
 
 - The agent learns to land successfully in most episodes by the end of training
 - Rewards increase significantly across training as the policy improves
+
+<p align="center">
+  <img src="training_results.png" width="800" alt="Episode returns and lengths during training">
+</p>
+
+- **Left**: Episode Returns – shows reward increasing over 1000 episodes
+- **Right**: Episode Lengths – shows agent learning more efficient landings
